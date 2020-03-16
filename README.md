@@ -20,6 +20,6 @@ A dark theme and iconset for [Alephnote](https://mikescher.github.io/AlephNote/)
 
 ## Origin
 
-    “The name comes from the Greek words σταχυς stakhus (ear of grain, stalk, stick; metaphorically, progeny) and βότρυς botrus (cluster or bunch as in grapes, trusses). Stachybotrys, also known as black mold or toxic black mold, is a variety of microfungus.”
+>  “The name comes from the Greek words σταχυς stakhus (ear of grain, stalk, stick; metaphorically, progeny) and βότρυς botrus (cluster or bunch as in grapes, trusses). Stachybotrys, also known as black mold or toxic black mold, is a variety of microfungus.”
 
 © 2019 [Heracles Papatheodorou](http://heracl.es) a.k.a [@Arty2](https://www.twitter.com/Arty2), [MIT Licence](LICENCE.txt)
