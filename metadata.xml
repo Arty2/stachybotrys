@@ -10,7 +10,7 @@ Author:		Heracles Papatheodorou
 <theme>
 	<meta>
 		<name>Stachybotrys</name>
-		<version>1.4</version>
+		<version>1.5</version>
 		<compatibility>*</compatibility>
 		<author>heracl.es</author>
 		<type>theme</type>
@@ -54,8 +54,8 @@ Author:		Heracles Papatheodorou
 		<property name="scintilla.markdown.header:foreground"              value="@White" />
 		<property name="scintilla.markdown.list:foreground"                value="@SB_LightGray" />
 		<property name="scintilla.markdown.url:foreground"                 value="@White" />
-		<property name="scintilla.scrollbar_h:visible"                     value="true" />
-		<property name="scintilla.scrollbar_v:visible"                     value="false" />
+<!-- 		<property name="scintilla.scrollbar_h:visible"                     value="true" />
+		<property name="scintilla.scrollbar_v:visible"                     value="false" /> -->
 		<property name="scintilla.search.global:alpha"                     value="100" />
 		<property name="scintilla.search.global:color"                     value="@SB_Purple" />
 		<property name="scintilla.search.global:outline_alpha"             value="230" />
@@ -92,7 +92,7 @@ Author:		Heracles Papatheodorou
 		<property name="window.notesview.flat.datetime1:foreground"        value="@SB_LightGray" />
 		<property name="window.notesview.flat.datetime2:foreground"        value="@SB_LightGray" />
 		<property name="window.notesview.flat.preview:foreground"          value="@SB_LightGray" />
-		<property name="window.notesview.flat.scrollbar_v:visible"         value="false" />
+<!-- 		<property name="window.notesview.flat.scrollbar_v:visible"         value="false" /> -->
 		<property name="window.notesview.flat.selected:background"         value="@SB_Gray" />
 		<property name="window.notesview.flat.selected:foreground"         value="@SB_LightGray" />
 		<property name="window.notesview.flat.separator"                   value="@SB_LightGray" />
@@ -100,9 +100,9 @@ Author:		Heracles Papatheodorou
 		<property name="window.notesview.flat:background"                  value="@SB_DarkGray" />
 		<property name="window.notesview.flat:bordercolor"                 value="@SB_DarkGray" />
 		<property name="window.notesview.flat:foreground"                  value="@SB_VeryLightGray" />
-		<property name="window.notesview.hierachical.list.scrollbar_v:visible" value="false" />
+<!-- 		<property name="window.notesview.hierachical.list.scrollbar_v:visible" value="false" />
+		<property name="window.notesview.hierachical.tree.scrollbar_v:visible" value="false" /> -->
 		<property name="window.notesview.hierachical.list:bordercolor"     value="@SB_DarkGray" />
-		<property name="window.notesview.hierachical.tree.scrollbar_v:visible" value="false" />
 		<property name="window.notesview.hierachical.tree.selected:background" value="@SB_Gray" />
 		<property name="window.notesview.hierachical.tree.selected:foreground" value="@SB_LightGray" />
 		<property name="window.notesview.hierachical.tree:bordercolor"     value="@SB_DarkGray" />

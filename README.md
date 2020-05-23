@@ -20,8 +20,7 @@ To achieve the color blending between the titlebar and the app as in the followi
 
 ### Theme → Modifiers
 
-- [x] Hide scrollbars (incorporated in the theme, vertical scrollbar visible when available)
-- [x] Stachybotrys icons
+- [x] Hide scrollbars
 
 ### Text Editor
 
@@ -33,19 +32,26 @@ To achieve the color blending between the titlebar and the app as in the followi
 
 ## Suggested Fonts
 
-- Advanced → UI Font: Inter BETA*
+- Advanced → UI Font: Inter BETA※
 - Text Editor →
     + Note: Anonymous Pro, 9pt
     + List: Inter BETA, 10pt
     + Title: Inter BETA, 11pt
 
-<small>* Windows 10 hinting is improved over plain Inter</small>
+※ Windows 10 hinting seems improved over plain Inter.
+
+The font in the following screenshots is *Redacted-Script*.
 
 
 ## Screenshots
 
 ![Screenshot of Alephnote with the Stachybotrys theme](./screenshots/stachybotrys_screenshot_01.png)
+
+Vertical layout
+
 ![Screenshot of Alephnote with the Stachybotrys theme](./screenshots/stachybotrys_screenshot_02.png)
+
+Horizontal layout (default)
 
 
 ## Etymology
