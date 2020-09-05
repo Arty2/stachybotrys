@@ -25,20 +25,20 @@ To achieve the color blending between the titlebar and the app as in the followi
 ### Text Editor
 
 - Highlighting →
-    + Hyperlinks: Clickable (single click)
-    + Markdown: Always
-    + Todo lists: Always
+	+ Hyperlinks: Clickable (single click)
+	+ Markdown: Always
+	+ Todo lists: Always
 
 
 ## Suggested Fonts
 
-- Advanced → UI Font: Inter BETA※
+- Advanced → UI Font: Inter BETA＊
 - Text Editor →
-    + Note: Anonymous Pro, 9pt
-    + List: Inter BETA, 10pt
-    + Title: Inter BETA, 11pt
+	+ Note: Anonymous Pro, 9pt
+	+ List: Inter BETA, 10pt
+	+ Title: Inter BETA, 11pt
 
-※ Windows 10 hinting seems improved over plain Inter.
+＊ Windows 10 hinting seems improved over plain Inter.
 
 The font in the following screenshots is *Redacted-Script*.
 
